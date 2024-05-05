@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Lato;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-content {
+  max-width: 710px;
+}
+.header-title {
+  color: #272727;
+  font-family: Lato;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
