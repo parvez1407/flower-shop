@@ -27,7 +27,7 @@
   font-weight: 400;
   line-height: 30px;
 }
-/* .btn-primary {
+.btn-primary {
   padding: 20px 43px;
   border-radius: 8px;
   background: #e55473;
@@ -42,7 +42,7 @@
   background: #ffffff;
   border: 1px solid #e55473;
   color: #e55473;
-} */
+}
 
 /* Featured Flower Section Styles */
 
@@ -195,7 +195,7 @@ section {
 /* Button style */
 
 /* CSS */
-.btn-primary,
+/* .btn-primary,
 .btn-primary:after {
   width: 150px;
   height: 76px;
@@ -299,7 +299,7 @@ section {
     height: 86px;
     line-height: 88px;
   }
-}
+} */
 
 /* Subscriber Style Start */
 .subscribe-container {
@@ -333,4 +333,33 @@ section {
   width: 700px;
   height: 30px;
   margin-top: 48px;
+}
+
+/* Footer section Style */
+.footer-container {
+  background-color: #111010;
+}
+.footer-content {
+  max-width: 625px;
+  text-align: center;
+  margin: 0 auto;
+  color: #fff;
+  padding: 125px 0;
+}
+.footer-title {
+  color: #e55473;
+  font-size: 48px;
+  font-weight: 800;
+}
+.footer-description {
+  color: #ffffffe6;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px; /* 166.667% */
+  margin: 32px 0;
+}
+.footer-copyright {
+  color: #ffffff66;
+  font-size: 16px;
+  font-weight: 400;
 }
