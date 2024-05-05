@@ -300,3 +300,37 @@ section {
     line-height: 88px;
   }
 }
+
+/* Subscriber Style Start */
+.subscribe-container {
+  background-image: url("../assets/images/rectangle-9.png");
+  border-radius: 8px;
+  background-repeat: no-repeat;
+  max-width: 1440px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.subscribe-content {
+  padding: 122px 0;
+}
+.subscribe-title {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+}
+.subscribe-description {
+  color: #27272799;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 16px;
+}
+.subscribe-content > input {
+  padding: 20px;
+  border-radius: 8px;
+  background: #fff;
+  width: 700px;
+  height: 30px;
+  margin-top: 48px;
+}
